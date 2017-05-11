@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "385657678341",
+    "firebase_url": "https://fir-fish-makar.firebaseio.com",
+    "project_id": "fir-fish-makar",
+    "storage_bucket": "fir-fish-makar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385657678341:android:a1695d7ecc99ba5e",
+        "android_client_info": {
+          "package_name": "css.cis3334.fishlocatorfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385657678341-f3tfnek4jkoq1nkiqi85oc39rksd7r3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "css.cis3334.fishlocatorfirebase",
+            "certificate_hash": "ab306e1fbcddf172482351ea79cf6f8c80b69189"
+          }
+        },
+        {
+          "client_id": "385657678341-v72nj96d57v0bvebetbk3ols0sai6h77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlTKaOe0AES61ObGziUXckT7TIUsIWF_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385657678341-v72nj96d57v0bvebetbk3ols0sai6h77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
